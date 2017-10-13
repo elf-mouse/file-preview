@@ -1,0 +1,25 @@
+[
+{
+  "name": "Home",
+  "url": "/home"
+},
+{
+  "name": "PDF",
+  "url": "/pdf"
+},
+{
+  "name": "Txt",
+  "url": "/txt"
+},
+{
+  "name": "Image",
+  "url": "/image"
+},
+{
+  "name": "Audio",
+  "url": "/audio"
+},
+{
+  "name": "Video",
+  "url": "/video"
+}]
